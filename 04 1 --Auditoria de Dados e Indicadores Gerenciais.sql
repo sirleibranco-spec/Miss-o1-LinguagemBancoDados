@@ -1,0 +1,3 @@
+-- KPI 3: pct_valor_top5 = 25.46
+-- KPI 8: pct_valor_defensivos_bloqueado = 51.86  (R$ 108.950,00 de R$ 210.105,00)
+-- KPI 10: pct_acima_da_media = 29.41  (20 de 68 registros; média R$ 266,88)
